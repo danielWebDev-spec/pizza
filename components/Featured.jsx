@@ -14,8 +14,6 @@ const Featured = () => {
     }
   };
 
-  console.log(index);
-
   const images = ["/img/pizza1.png", "/img/pizza2.png", "/img/pizza3.png"];
 
   return (
